@@ -1,5 +1,5 @@
-﻿Initial line
-First line added
+Initial line changed
+First line changed 
 Second line added by user1
 Third line added by user1
 Fourth line added by user1
